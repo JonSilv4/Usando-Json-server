@@ -1,0 +1,107 @@
+{
+    "clientes": [
+      {
+        "id": 1,
+        "primeiro_nome": "Clara",
+        "segundo_nome": "Souza",
+        "email": "clarinhamaravilha10@gmail.com",
+        "celular": "(21) 91000-0001"
+      },
+      {
+        "id": 2,
+        "primeiro_nome": "Jean",
+        "segundo_nome": "Oliveira",
+        "email": "duodosjeans76@gmail.com",
+        "celular": "(21) 91000-0002"
+      },
+      {
+        "id": 3,
+        "primeiro_nome": "Maxwell",
+        "segundo_nome": "Silva",
+        "email": "maxduelista80@gmail.com",
+        "celular": "(21) 91000-0003"
+      },
+      {
+        "id": 4,
+        "primeiro_nome": "Luiza",
+        "segundo_nome": "Varela",
+        "email": "luizaproplayer42@gmail.com",
+        "celular": "(21) 91000-0004"
+      },
+      {
+        "id": 5,
+        "primeiro_nome": "João Gabriel",
+        "segundo_nome": "Nunes",
+        "email": "gbdosmemes35@gmail.com",
+        "celular": "(21) 91000-0005"
+      },
+      {
+        "id": 6,
+        "primeiro_nome": "Jonathan",
+        "segundo_nome": "Pinheiro",
+        "email": "jkfrenetico93@gmail.com",
+        "celular": "(21) 91000-0006"
+      }
+    ],
+
+    "produtos": [
+      {
+        "id": 1,
+        "dispositivo": "Fone de ouvido",
+        "marca": "Apple",
+        "valor": "R$ 219,00"
+      },
+      {
+        "id": 2,
+        "dispositivo": "Controle",
+        "marca": "Pichau",
+        "valor": "R$ 105,00"
+      },
+      {
+        "id": 3,
+        "dispositivo": "Webcam",
+        "marca": "Logitech",
+        "valor": "R$ 169,90"
+      },
+      {
+        "id": 4,
+        "dispositivo": "Microfone",
+        "marca": "HyperX",
+        "valor": "R$ 679,90"
+      }
+    ],
+
+    "empresas_de_frete": [
+      {
+        "id": 1,
+        "empresa": "Retax",
+        "estados_operantes": "RJ, SP, MG, ES",
+        "pagamento_mensal": "R$ 600,00"
+      },
+      {
+        "id": 2,
+        "empresa": "Ujama",
+        "estados_operantes": "RJ, PR, SC, RS",
+        "pagamento_mensal": "R$ 700,00"
+      },
+      {
+        "id": 3,
+        "empresa": "Tecnodex",
+        "estados_operantes": "RJ, DF, GO, MT, MS",
+        "pagamento_mensal": "R$ 800,00"
+      },
+      {
+        "id": 4,
+        "empresa": "Nórdicos",
+        "estados_operantes": "RJ, BA, SE, AL, PE, PB, RN, CE, PI, MA",
+        "pagamento_mensal": "R$ 950,00"
+      },
+      {
+        "id": 5,
+        "empresa": "Tecnorte",
+        "estados_operantes": "RJ, TO, PA, AM, RO, AP, RR, AC",
+        "pagamento_mensal": "R$ 1000,00"
+      }
+    ]
+  }
+  
